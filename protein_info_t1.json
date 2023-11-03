@@ -1,0 +1,263 @@
+[
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0002",
+        "gene_index": 96,
+        "orf_number": 1,
+        "dna_sequence": "ATGGTTTTTTGTGTAAAATGCAATGAACGAATCCATTTTTTATTTTGCAAGTGTGAGAGGCCTTTATAA",
+        "amino_acid_sequence": "MVFCVKCNERIHFLFCKCERPL",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0004",
+        "gene_index": 118,
+        "orf_number": 2,
+        "dna_sequence": "ATGAACGAATCCATTTTTTATTTTGCAAGTGTGAGAGGCCTTTATAAGGAAGACTCGGATTCACCGGCAGCAACCGGCGCAGAGTCTTCTTTGGTTTCTTGTTCTTGA",
+        "amino_acid_sequence": "MNESIFYFASVRGLYKEDSDSPAATGAESSLVSCS",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0006",
+        "gene_index": 283,
+        "orf_number": 2,
+        "dna_sequence": "ATGAATTGGTCCAATGCATCGCCGACCAGTTCTTTTTCAATATTAATTTCAGTTTCAAAAGTTTCTGGTAACCAGTTTGACCAGCTCTTGGAACGAACGAAGTACTTATCCAATGGAGATGGTTCTTTGGCTTCACCGGTAACGTTATCACCTTCCTTGGCGGCCAAAGTACCTTCTGCAACATTGACGGTAGCGGCTTCGTTAGCGACAATTTCTCTCAATGCGGCTAAAATCAGGTTAGTGTCACCTCCGAAGGACATGTTAACAACTCTGTAA",
+        "amino_acid_sequence": "MNWSNASPTSSFSILISVSKVSGNQFDQLLERTKYLSNGDGSLASPVTLSPSLAAKVPSATLTVAASLATISLNAAKIRLVSPPKDMLTTL",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0012",
+        "gene_index": 578,
+        "orf_number": 3,
+        "dna_sequence": "ATGGAGCAAAACCATCCTTGGAGAGTTTGGACCTTAAGTAATTGTCGACGGTCAAGTTTTCTTCGCTGA",
+        "amino_acid_sequence": "MEQNHPWRVWTLSNCRRSSFLR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0015",
+        "gene_index": 744,
+        "orf_number": 1,
+        "dna_sequence": "ATGTTGTTGGTTGTGATGGAAGTGGTTGTGGTATTTAGAGCGGTTGTTGTTGTTATTACGAGCGTTGCGTCCTTGGTAAGGTTTAAACTGTGGTGGGAAGCCTTGGTTCTGAGGCATACCGGCGTTATTACTGTTGTGGAACTTTCTCCTTTGAGGACCATTGCTGTTATGGTGATGACTGTGGTGATGATTACGGTGGTGAGGTGGTTGTTGCTGTTGTGTAGATTGACCATTTTCTTGAGAGGTAGCGTCTTTTGA",
+        "amino_acid_sequence": "MLLVVMEVVVVFRAVVVVITSVASLVRFKLWWEALVLRHTGVITVVELSPLRTIAVMVMTVVMITVVRWLLLLCRLTIFLRGSVF",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0016",
+        "gene_index": 759,
+        "orf_number": 1,
+        "dna_sequence": "ATGGAAGTGGTTGTGGTATTTAGAGCGGTTGTTGTTGTTATTACGAGCGTTGCGTCCTTGGTAAGGTTTAAACTGTGGTGGGAAGCCTTGGTTCTGAGGCATACCGGCGTTATTACTGTTGTGGAACTTTCTCCTTTGAGGACCATTGCTGTTATGGTGATGACTGTGGTGATGATTACGGTGGTGAGGTGGTTGTTGCTGTTGTGTAGATTGACCATTTTCTTGAGAGGTAGCGTCTTTTGA",
+        "amino_acid_sequence": "MEVVVVFRAVVVVITSVASLVRFKLWWEALVLRHTGVITVVELSPLRTIAVMVMTVVMITVVRWLLLLCRLTIFLRGSVF",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0017",
+        "gene_index": 912,
+        "orf_number": 1,
+        "dna_sequence": "ATGGTGATGACTGTGGTGATGATTACGGTGGTGAGGTGGTTGTTGCTGTTGTGTAGATTGACCATTTTCTTGAGAGGTAGCGTCTTTTGA",
+        "amino_acid_sequence": "MVMTVVMITVVRWLLLLCRLTIFLRGSVF",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0018",
+        "gene_index": 918,
+        "orf_number": 1,
+        "dna_sequence": "ATGACTGTGGTGATGATTACGGTGGTGAGGTGGTTGTTGCTGTTGTGTAGATTGACCATTTTCTTGAGAGGTAGCGTCTTTTGA",
+        "amino_acid_sequence": "MTVVMITVVRWLLLLCRLTIFLRGSVF",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0019",
+        "gene_index": 930,
+        "orf_number": 1,
+        "dna_sequence": "ATGATTACGGTGGTGAGGTGGTTGTTGCTGTTGTGTAGATTGACCATTTTCTTGAGAGGTAGCGTCTTTTGA",
+        "amino_acid_sequence": "MITVVRWLLLLCRLTIFLRGSVF",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0020",
+        "gene_index": 1065,
+        "orf_number": 1,
+        "dna_sequence": "ATGTTGGTGATGCTTCTTTTTCCTGTTAGCATTACTCGACGATGTCGACGATGCTGCAGTTTTGTTGTTTTTGCTCTTGTTGCTGTTGCCATTACTTGCACCATTCTTGGAACCGGATCTTTTGGTGCCAGAGACGGTAATGGAGGCCTTGATGGGAACCCACTTGGTAGCAGTCGATGA",
+        "amino_acid_sequence": "MLVMLLFPVSITRRCRRCCSFVVFALVAVAITCTILGTGSFGARDGNGGLDGNPLGSSR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0021",
+        "gene_index": 1074,
+        "orf_number": 1,
+        "dna_sequence": "ATGCTTCTTTTTCCTGTTAGCATTACTCGACGATGTCGACGATGCTGCAGTTTTGTTGTTTTTGCTCTTGTTGCTGTTGCCATTACTTGCACCATTCTTGGAACCGGATCTTTTGGTGCCAGAGACGGTAATGGAGGCCTTGATGGGAACCCACTTGGTAGCAGTCGATGA",
+        "amino_acid_sequence": "MLLFPVSITRRCRRCCSFVVFALVAVAITCTILGTGSFGARDGNGGLDGNPLGSSR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0022",
+        "gene_index": 1106,
+        "orf_number": 3,
+        "dna_sequence": "ATGTCGACGATGCTGCAGTTTTGTTGTTTTTGCTCTTGTTGCTGTTGCCATTACTTGCACCATTCTTGGAACCGGATCTTTTGGTGCCAGAGACGGTAA",
+        "amino_acid_sequence": "MSTMLQFCCFCSCCCCHYLHHSWNRIFWCQRR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0023",
+        "gene_index": 1115,
+        "orf_number": 3,
+        "dna_sequence": "ATGCTGCAGTTTTGTTGTTTTTGCTCTTGTTGCTGTTGCCATTACTTGCACCATTCTTGGAACCGGATCTTTTGGTGCCAGAGACGGTAA",
+        "amino_acid_sequence": "MLQFCCFCSCCCCHYLHHSWNRIFWCQRR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0024",
+        "gene_index": 1204,
+        "orf_number": 2,
+        "dna_sequence": "ATGGAGGCCTTGATGGGAACCCACTTGGTAGCAGTCGATGATTTCGGAGTGGGTGTTCTGTTCTTCTTCTTTCTTGTGGCATCCAAGTCTTCTATTGAGATAGTAGAAACAGGGATCTCAGTAGGAGCAAGTTTCCATGGGGAAGATGTGGGCAATGGTGCCGGCGTCAAGTTGACTTGCTTGCTCTTGGAGCTCTCTTGTTCTTGCACTTCTGGGACTGGGGCAGTAGCAGTGTTTGCGGCGGCGGTTTCAGCAGACATCGTGGGCAGAGAAGTGAAAAGAAGATGA",
+        "amino_acid_sequence": "MEALMGTHLVAVDDFGVGVLFFFFLVASKSSIEIVETGISVGASFHGEDVGNGAGVKLTCLLLELSCSCTSGTGAVAVFAAAVSADIVGREVKRR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0025",
+        "gene_index": 1216,
+        "orf_number": 2,
+        "dna_sequence": "ATGGGAACCCACTTGGTAGCAGTCGATGATTTCGGAGTGGGTGTTCTGTTCTTCTTCTTTCTTGTGGCATCCAAGTCTTCTATTGAGATAGTAGAAACAGGGATCTCAGTAGGAGCAAGTTTCCATGGGGAAGATGTGGGCAATGGTGCCGGCGTCAAGTTGACTTGCTTGCTCTTGGAGCTCTCTTGTTCTTGCACTTCTGGGACTGGGGCAGTAGCAGTGTTTGCGGCGGCGGTTTCAGCAGACATCGTGGGCAGAGAAGTGAAAAGAAGATGA",
+        "amino_acid_sequence": "MGTHLVAVDDFGVGVLFFFFLVASKSSIEIVETGISVGASFHGEDVGNGAGVKLTCLLLELSCSCTSGTGAVAVFAAAVSADIVGREVKRR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0026",
+        "gene_index": 1241,
+        "orf_number": 3,
+        "dna_sequence": "ATGATTTCGGAGTGGGTGTTCTGTTCTTCTTCTTTCTTGTGGCATCCAAGTCTTCTATTGAGATAG",
+        "amino_acid_sequence": "MISEWVFCSSSFLWHPSLLLR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0031",
+        "gene_index": 1431,
+        "orf_number": 4,
+        "dna_sequence": "ATGACGGGGTCAGGGTCTTCACGTTCTTGTTCTCTCGAGGTTCTCGTTCGTTCAGTTGAACTGCGGCCGTGGTAA",
+        "amino_acid_sequence": "MTGSGSSRSCSLEVLVRSVELRPW",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0032",
+        "gene_index": 1326,
+        "orf_number": 4,
+        "dna_sequence": "ATGACTCTAGGGACAAAGATGATAGAGTTATCTTCTGAACCTACGGTGTTCTTTCTTCTTCTTGTCTTGTGGGTGAGGCTTTAG",
+        "amino_acid_sequence": "MTLGTKMIELSSEPTVFFLLLVLWVRL",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0033",
+        "gene_index": 1308,
+        "orf_number": 4,
+        "dna_sequence": "ATGATAGAGTTATCTTCTGAACCTACGGTGTTCTTTCTTCTTCTTGTCTTGTGGGTGAGGCTTTAG",
+        "amino_acid_sequence": "MIELSSEPTVFFLLLVLWVRL",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0034",
+        "gene_index": 1233,
+        "orf_number": 4,
+        "dna_sequence": "ATGGTTCACCCAAGGGTAGTTCCGGAGGTAATGGCAGAGACCGTGGTTTTCTAG",
+        "amino_acid_sequence": "MVHPRVVPEVMAETVVF",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0037",
+        "gene_index": 966,
+        "orf_number": 4,
+        "dna_sequence": "ATGTGTTGTCGTTGTTGGTGGAGTGGTGGCATTAGTAGTGGTGTCAGTAGTGGTATTGTCGTTACCAGGAGTTTCCTCTTTCAAGGTGTTGTCATTATTGCGGCCATACGGAGTCTTGGTTCCGAAGGGTGGTGTCAAATTTGGAATGGTTCCTGCGTTGCGAGCATTATTGTTGTTGTTGGCGAGATTTATGGTGTTGGTGAAGGTAGTGTTGGTTGTTGTAGGAGTTGTTGGATACCAGTTTAA",
+        "amino_acid_sequence": "MCCRCWWSGGISSGVSSGIVVTRSFLFQGVVIIAAIRSLGSEGWCQIWNGSCVASIIVVVGEIYGVGEGSVGCCRSCWIPV",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0038",
+        "gene_index": 821,
+        "orf_number": 5,
+        "dna_sequence": "ATGGTTCCTGCGTTGCGAGCATTATTGTTGTTGTTGGCGAGATTTATGGTGTTGGTGAAGGTAGTGTTGGTTGTTGTAGGAGTTGTTGGATACCAGTTTAATGTCGTTGTCAAAATAGGTCAGGTTGGTCACAATTACCGGTAG",
+        "amino_acid_sequence": "MVPALRALLLLLARFMVLVKVVLVVVGVVGYQFNVVVKIGQVGHNYR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0039",
+        "gene_index": 776,
+        "orf_number": 5,
+        "dna_sequence": "ATGGTGTTGGTGAAGGTAGTGTTGGTTGTTGTAGGAGTTGTTGGATACCAGTTTAATGTCGTTGTCAAAATAGGTCAGGTTGGTCACAATTACCGGTAG",
+        "amino_acid_sequence": "MVLVKVVLVVVGVVGYQFNVVVKIGQVGHNYR",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0041",
+        "gene_index": 653,
+        "orf_number": 5,
+        "dna_sequence": "ATGATTAAGTCGCTTCTTTTGAACTGGCAGCTGTTAATGAATTCCAGGTTTGAGAGGTTCCTACCAAAACGAGGTAACAGAAATTAG",
+        "amino_acid_sequence": "MIKSLLLNWQLLMNSRFERFLPKRGNRN",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0042",
+        "gene_index": 617,
+        "orf_number": 5,
+        "dna_sequence": "ATGAATTCCAGGTTTGAGAGGTTCCTACCAAAACGAGGTAACAGAAATTAG",
+        "amino_acid_sequence": "MNSRFERFLPKRGNRN",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0044",
+        "gene_index": 474,
+        "orf_number": 4,
+        "dna_sequence": "ATGGCAGTTACAACGTCTTCCATGAAACCGGCGGTTCCTTCCACTATTGCAATGGCCACTTCGGTTTCTTGGTAG",
+        "amino_acid_sequence": "MAVTTSSMKPAVPSTIAMATSVSW",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0045",
+        "gene_index": 453,
+        "orf_number": 4,
+        "dna_sequence": "ATGAAACCGGCGGTTCCTTCCACTATTGCAATGGCCACTTCGGTTTCTTGGTAG",
+        "amino_acid_sequence": "MKPAVPSTIAMATSVSW",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0048",
+        "gene_index": 352,
+        "orf_number": 6,
+        "dna_sequence": "ATGGTCTTTGAAAACTTTGACTTTAATTATAACTTTTTCTTGACCAGCCGCTACGTAACCTGGTTAAGTACTATAGGGATGGTGGACAAGGAGTTGTTCTTCTCCTTAGTAGGTGACTTGAGCGAAGAGTTCTTGTTCTTTGGTTTCTTCTGA",
+        "amino_acid_sequence": "MVFENFDFNYNFFLTSRYVTWLSTIGMVDKELFFSLVGDLSEEFLFFGFF",
+        "digested_peptides": []
+    },
+    {
+        "organism_name": "Unknown_Sequence",
+        "gene_name": "XGene0049",
+        "gene_index": 274,
+        "orf_number": 6,
+        "dna_sequence": "ATGGTGGACAAGGAGTTGTTCTTCTCCTTAGTAGGTGACTTGAGCGAAGAGTTCTTGTTCTTTGGTTTCTTCTGA",
+        "amino_acid_sequence": "MVDKELFFSLVGDLSEEFLFFGFF",
+        "digested_peptides": []
+    }
+]
